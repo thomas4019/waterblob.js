@@ -5,19 +5,7 @@ Water-Simulator
 Over the course of the next two years I tried many different data and physics models to simulate
 water efficiently and realistically. This port to javascipt began in November 2013.
 
-Keyboard Commands
+Online Demo
 =================
-
-- *P* = Pause
-- *N* = Next frame
-- *Z* = Rotate gravity left
-- *X* = Rotate gravity right
-- *C* = Reset Gravity
-- *V* = Invert gravity
-- *A* = Accelerate
-- *S* = Slower
-- *L* = Switch between Planetary and Linear gravity
-- *G* = Set Planetary Gravity to mouse location
-- *H* = Switch Planetary Gravity to the mouse location
-- *J* = Invert Planetary Gravity
-- *K* = Switch on or off separation of blobs
+[Here](https://rawgithub.com/thomas4019/waterblob.js/master/index.html)
+(this is still a work in progress and crashes quite often)
