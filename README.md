@@ -7,5 +7,5 @@ water efficiently and realistically. This port to javascipt began in November 20
 
 Online Demo
 =================
-[Here](https://rawgithub.com/thomas4019/waterblob.js/master/index.html)
+[Here](https://rawgithub.com/thomas4019/waterblob.js/master/example.html)
 (this is still a work in progress and crashes quite often)
